@@ -71,7 +71,7 @@ Read the input image in color mode.
 
 ## Program
 
-### Developed By: STARBYA S
+### Developed By: STARBIYA S
 
 ### Register No: 212223040208
 
